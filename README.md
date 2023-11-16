@@ -4,7 +4,7 @@ Hi 👋 My name is mrheltic
 Wiring Dreams in Cyber-Physical Realms
 --------------------------------------
 
-🚀 C++ Developer & IoT Enthusiast Greetings from the world of code and circuits! I'm a C++ developer specializing in IoT, armed with a Bachelor's in Computer and Automation Engineering and currently immersed in a Master's in Computer Engineering with a focus on Cyber-Physical Systems. 💡 Professional Focus: My expertise lies in crafting innovative solutions for IoT environments. From resource optimization to scalable systems, I'm dedicated to bridging the gap between the digital and physical worlds. 🎓 Academic Journey: With a solid foundation in Computer and Automation Engineering, I'm now exploring the cutting edge of Cyber-Physical Systems in my master's program, constantly seeking to contribute to the forefront of technology. 🔧 Tech Hobbyist: Beyond the screen, I find joy in 3D printing, modeling, and experimenting with Arduino and electronics. My hands-on projects complement my digital pursuits, showcasing a seamless integration of software and hardware. ⚙️ Digital Alchemist: Consider me a tech alchemist, seamlessly blending code precision with the tactile artistry of 3D printing and the electrifying world of Arduino. My passion lies in pushing the boundaries of what's possible. 🌟 Life Beyond Code: Away from the compiler, I sculpt ideas with my 3D printer, refine models, and immerse myself in the dance of electrons on a breadboard. Each project is a playground for creativity and a testament to the fusion of technology and imagination.
+🚀 C++ IoT Developer | Cyber-Physical Explorer Tech alchemist shaping IoT's future. Bachelor's in Computer Engineering, mastering Cyber-Physical Systems. Passion for 3D printing, Arduino, and code.
 
 * 🌍  I'm based in Bari
 * ✉️  You can contact me at [vincenzopioflorio@gmail.com](mailto:vincenzopioflorio@gmail.com)
@@ -26,8 +26,8 @@ Wiring Dreams in Cyber-Physical Realms
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/mrheltic"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mrheltic&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/mrheltic"><img src="https://github-readme-stats.vercel.app/api?username=mrheltic&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mrheltic's GitHub stats" /></a>
 
-<a href="http://www.github.com/mrheltic"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=mrheltic&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/mrheltic"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mrheltic&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/mrheltic" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrheltic&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
