@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🚀 C++ IoT Developer | Cyber-Physical Systems<br>Flashing firmware, printing parts, breaking things on purpose. B.Sc. & M.Sc. in Computer Engineering @PoliBA, currently researching Cyber-Physical Systems at Université Côte d'Azur. Passionate about building full embedded systems from scratch and turning ideas into working hardware.</p>
+<p align="left">🛰️ C++ IoT Developer | Cyber-Physical Systems<br>Flashing firmware, printing parts, breaking things on purpose. B.Sc. & M.Sc. in Computer Engineering @PoliBA, currently researching Cyber-Physical Systems at Université Côte d'Azur. Passionate about building full embedded systems from scratch and turning ideas into working hardware.</p>
 
 ###
 
@@ -14,7 +14,13 @@
 
 ###
 
-<p align="left">🇮🇹 Based in Bari, Italy — currently in Nice, France 🇫🇷<br>🔬 Thesis on DoA Estimation of Satellite Signals via SDR Array<br>🛠️ Hands-on with ESP32, STM32, Arduino & 3D printing<br>✉️  You can contact me at [vincenzopioflorio@gmail.com](mailto:vincenzopioflorio@gmail.com)🤝  I'm open to collaborating on interesting projects IoT related</p>
+<p align="left">
+  🇮🇹 Based in Bari, Italy — currently in Nice, France 🇫🇷<br>
+  🔬 Thesis on DoA Estimation of Satellite Signals via SDR Array<br>
+  🛠️ Hands-on with ESP32, STM32, Arduino & 3D printing<br>
+  ✉️ You can contact me at <a href="mailto:vincenzopioflorio@gmail.com">vincenzopioflorio@gmail.com</a><br>
+  🤝 I'm open to collaborating on interesting projects IoT related
+</p>
 
 ###
 
