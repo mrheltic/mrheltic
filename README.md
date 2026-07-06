@@ -15,7 +15,7 @@
 ###
 
 <p align="left">
-  🇮🇹 Based in Bari, Italy — currently in Nice, France 🇫🇷<br>
+  🇮🇹 Based in Bari, Italy<br>
   🔬 Thesis on DoA Estimation of Satellite Signals via SDR Array<br>
   🛠️ Hands-on with ESP32, STM32, Arduino & 3D printing<br>
   ✉️ You can contact me at <a href="mailto:vincenzopioflorio@gmail.com">vincenzopioflorio@gmail.com</a><br>
